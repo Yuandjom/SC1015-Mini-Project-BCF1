@@ -26,6 +26,12 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 - Neural Networks, Keras and Tensorflow 
 - Collaborating using Github
 - Learning rate alpha and gradient descent
+- Data Science and processing
+- Read and process image data 
+- Convoluted Neural Network Model
+- Address overfitting in processing image data
+- Use of activation function RELU
+- Reduce accuracy loss and validation loss
 
 
 ## References
