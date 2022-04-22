@@ -38,3 +38,4 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 - [....]
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://github.com/nicklimmm/movie-analysis
+- https://datascience.stackexchange.com/questions/109905/cannot-achieve-good-result-while-transfer-learning-cifar-10-on-resnet50-keras
