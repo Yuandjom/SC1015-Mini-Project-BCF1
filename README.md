@@ -2,6 +2,7 @@
 
 ## About 
 1. Our project seeks to conduct landscape detection using Intel Image Dataset to detect 6 types of landscape: Sea, Glacier, Forest, Buildings, Mountain and Streets.
+2. We will be taking you through the process of creating and modifying our CNN model to analyse the changes in accuracy of our model due to the respective changes.
 
 ## Contributors 
 - Keith 
@@ -14,10 +15,15 @@ In today’s context, we are dealing with a vast amount of unstructured image da
 By using knowledge from SC1015 and convoluted neural networks, we seek to apply image classification on landscape images to identify 6 landscapes, namely Sea, Glacier, Forest, Buildings, Mountain and Street.
 
 ## Model Used 
-- Convolution Neural Network 
+- Convolution Neural Network (CNN)
 - Relu function and dropout technique
 
 ## Conclusion
+- An image classification model can be created using CNN. Though this model may have issues such as overfitting or certain types of images which are more prominently misclassified, it is possible for us to optimise the CNN model.
+- Firstly, we can improve accuracy by increasing the no. of epochs. 
+- Secondly, we can do this is by introducing a dropout layer. 
+- Thirdly, accuracy can be further raised by  increasing the number of convolution blocks. This also addressed the issue of overfitting to a certain extent, by curbing the increase in validation loss at higher number of epochs. 
+- Lastly, to further address overfitting, we can implement a controlled learning rate, which has shown to cause validation loss to decrease and stay constant up until 64 epochs. 
 
 ## What we have learned from this project
 - Handling imbalance data 
