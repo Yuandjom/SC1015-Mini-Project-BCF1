@@ -13,9 +13,9 @@ In today’s context, we are dealing with a vast amount of unstructured image da
 
 By using knowledge from SC1015 and convoluted neural networks, we seek to apply image classification on landscape images to identify 6 landscapes, namely Sea, Glacier, Forest, Buildings, Mountain and Street.
 
-
 ## Model Used 
 - Convolution Neural Network 
+- Relu function and dropout technique
 
 ## Conclusion
 
