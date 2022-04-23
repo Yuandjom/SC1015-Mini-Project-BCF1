@@ -2,7 +2,7 @@
 
 ## About 
 1. Our project seeks to conduct landscape detection using Intel Image Dataset to detect 6 types of landscape: Sea, Glacier, Forest, Buildings, Mountain and Streets.
-2. We will be taking you through the process of creating and modifying our CNN model to analyse the changes in accuracy of our model due to the respective changes.
+2. We will be taking you through the process of creating and modifying our CNN model and the changes in accuracy of our model due to the respective changes.
 
 ## Contributors 
 - Keith 
