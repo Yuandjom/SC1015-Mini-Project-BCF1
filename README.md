@@ -5,9 +5,9 @@
 2. We will be taking you through the process of creating and modifying our CNN model and the changes in accuracy of our model due to the respective changes.
 
 ## Contributors 
-- Keith 
-- Angie 
-- John 
+- Angie -> problem statement, data preparation and data visualisation
+- Keith -> CNN model: Compilation of model, Accuracy and Validation Accuracy/Loss
+- John -> CNN model,
 
 ## Problem Statement: 
 In today’s context, we are dealing with a vast amount of unstructured image data from cameras and sensors. Image classification is one of the fundamental problems in the field of computer vision.
