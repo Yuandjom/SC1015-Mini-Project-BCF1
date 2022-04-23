@@ -26,21 +26,18 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 - Lastly, to further address overfitting, we can implement a controlled learning rate, which has shown to cause validation loss to decrease and stay constant up until 64 epochs. 
 
 ## What we have learned from this project
-- Handling imbalance data 
-- Handling image data 
-- Neural Networks, Keras and Tensorflow 
 - Collaborating using Github
-- Learning rate alpha and gradient descent
-- Data Science and processing
-- Read and process image data 
+- Handling imbalanced image data 
+- Read and process image data
+- Neural Networks, Keras and Tensorflow
 - Convoluted Neural Network Model
+- Learning rate alpha and gradient descent
 - Address overfitting in processing image data
 - Use of activation function RELU
 - Reduce accuracy loss and validation loss
 
 
 ## References
-- [....]
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://github.com/nicklimmm/movie-analysis
 - https://datascience.stackexchange.com/questions/109905/cannot-achieve-good-result-while-transfer-learning-cifar-10-on-resnet50-keras
