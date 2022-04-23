@@ -7,7 +7,7 @@
 ## Contributors 
 - Angie -> problem statement, data preparation and data visualisation
 - Keith -> CNN model: Compilation of model, Accuracy and Validation Accuracy/Loss
-- John -> CNN model,
+- John -> CNN model: Training and Testing of models, Gradient descent learning rate, data visualisation 
 
 ## Problem Statement: 
 In today’s context, we are dealing with a vast amount of unstructured image data from cameras and sensors. Image classification is one of the fundamental problems in the field of computer vision.
