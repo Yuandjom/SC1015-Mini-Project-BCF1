@@ -41,3 +41,4 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 - https://github.com/nicklimmm/movie-analysis
 - https://datascience.stackexchange.com/questions/109905/cannot-achieve-good-result-while-transfer-learning-cifar-10-on-resnet50-keras
 - https://stackoverflow.com/questions/39517431/should-we-do-learning-rate-decay-for-adam-optimizer
+- https://www.kaggle.com/code/vincee/intel-image-classification-cnn-keras
