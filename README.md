@@ -3,7 +3,7 @@
 
 
 ## About 
-1. Our project seeks to conduct landscape detection using Intel Image Dataset to detect 6 types of landscape: Mountain, Streets, Sea, Glacier, Buildings and Forest. 
+1. Our project seeks to conduct landscape detection using Intel Image Dataset from kaggle to detect 6 types of landscape: Mountain, Streets, Sea, Glacier, Buildings and Forest. 
 
 2. We will be taking you through the process of creating and modifying our CNN model. As we make modifications to our model, we will analyse the changes in accuracy of our model.
 
