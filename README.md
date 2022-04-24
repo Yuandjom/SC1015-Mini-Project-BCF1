@@ -15,24 +15,27 @@ In today’s context, we are dealing with a vast amount of unstructured image da
 By using knowledge from SC1015 and convoluted neural networks, we seek to apply image classification on landscape images to identify 6 landscapes, namely Sea, Glacier, Forest, Buildings, Mountain and Street.
 
 ## Model Used 
-- Convolution Neural Network (CNN)
+- Convolution Neural Network (CNN) with 20 epochs 
     - Controlled Learning rate
     - Dropout Layers
-
+- Convolution Neural Network (CNN) with 64 epochs 
+    - Controlled Learning rate
+    - Dropout Layers
+   
 ## Conclusion
 - An image classification model can be created using CNN. Though this model may have issues such as overfitting or certain types of images which are more prominently misclassified, it is possible for us to optimise the CNN model.
 - Firstly, we can improve accuracy by increasing the no. of epochs. 
 - Secondly, we can do this is by introducing a dropout layer. 
-- Thirdly, accuracy can be further raised by  increasing the number of convolution blocks. This also addressed the issue of overfitting to a certain extent, by curbing the increase in validation loss at higher number of epochs. 
-- Lastly, to further address overfitting, we can implement a controlled learning rate, which has shown to cause validation loss to decrease and stay constant up until 64 epochs. 
+- Thirdly, accuracy can be further raised by  increasing the number of convolution blocks with dropout layers. This also addressed the issue of overfitting to a certain extent, by curbing the increase in validation loss at higher number of epochs. 
+- Lastly, to further address overfitting from excess epochs, we can implement a controlled learning rate, which has shown to cause validation loss to decrease
 
 ## What we have learned from this project
-- Collaborating using Github
+- Collaboration using Github
 - Handling imbalanced image data 
 - Read and process image data
 - Neural Networks, Keras and Tensorflow
 - Convoluted Neural Network Model
-- Learning rate alpha and gradient descent
+- Fine tuning the learning rate for the optismer 
 - Address overfitting in processing image data
 - Use of activation function RELU
 - Reduce accuracy loss and validation loss
