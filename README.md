@@ -39,8 +39,12 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 ## References
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://datascience.stackexchange.com/questions/109905/cannot-achieve-good-result-while-transfer-learning-cifar-10-on-resnet50-keras
+- https://stats.stackexchange.com/questions/147850/are-pooling-layers-added-before-or-after-dropout-layers
+- https://datascience.stackexchange.com/questions/25267/keras-difference-beetween-val-loss-and-loss-during-training
 - https://stackoverflow.com/questions/39517431/should-we-do-learning-rate-decay-for-adam-optimizer
 - https://www.kaggle.com/code/vincee/intel-image-classification-cnn-keras
 - https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
+- https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
 - https://viso.ai/computer-vision/image-classification/
+-
 
