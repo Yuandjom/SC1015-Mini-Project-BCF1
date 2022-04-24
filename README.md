@@ -16,6 +16,8 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 
 ## Model Used 
 - Convolution Neural Network (CNN)
+    - Controlled Learning rate
+    - Dropout Layers
 
 ## Conclusion
 - An image classification model can be created using CNN. Though this model may have issues such as overfitting or certain types of images which are more prominently misclassified, it is possible for us to optimise the CNN model.
