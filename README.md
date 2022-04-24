@@ -42,4 +42,5 @@ By using knowledge from SC1015 and convoluted neural networks, we seek to apply 
 - https://stackoverflow.com/questions/39517431/should-we-do-learning-rate-decay-for-adam-optimizer
 - https://www.kaggle.com/code/vincee/intel-image-classification-cnn-keras
 - https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
+- https://viso.ai/computer-vision/image-classification/
 
