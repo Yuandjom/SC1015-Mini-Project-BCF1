@@ -1,7 +1,7 @@
 # SC1015-Mini-Project-BCF1-Group-04
 
 ## About 
-1. Our project seeks to conduct landscape detection using Intel Image Dataset to detect 6 types of landscape: Sea, Glacier, Forest, Buildings, Mountain and Streets.
+1. Our project seeks to conduct landscape detection using Intel Image Dataset to detect 6 types of landscape: Sea, Glacier, Forest, Buildings, Mountain and Streets. (https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 2. We will be taking you through the process of creating and modifying our CNN model and the changes in accuracy of our model due to the respective changes.
 
 ## Contributors 
