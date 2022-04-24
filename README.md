@@ -7,13 +7,8 @@
 
 2. We will be taking you through the process of creating and modifying our CNN model. As we make modifications to our model, we will analyse the changes in accuracy of our model.
 
-## Landscape 
-![image](https://user-images.githubusercontent.com/69751989/164974919-8205b2bf-2c61-4487-ae2d-9fe5702408aa.png)
-![image](https://user-images.githubusercontent.com/69751989/164975022-8fece914-aa22-43ab-9b4e-5bc080990915.png)
-![image](https://user-images.githubusercontent.com/69751989/164975027-7f587860-98f4-416a-ab41-bf0707703820.png)
-![image](https://user-images.githubusercontent.com/69751989/164975036-3a044e6d-f39e-46b1-920f-c33f1cf9d3ea.png)
-![image](https://user-images.githubusercontent.com/69751989/164975045-f1fc6643-2903-431b-ae7d-fce8e8c63659.png)
-![image](https://user-images.githubusercontent.com/69751989/164975055-27cda852-28e9-45c9-8623-cbb5c62d6a15.png)
+## Sample of the image dataset 
+![image](https://user-images.githubusercontent.com/69751989/164975106-22c4c937-fb3c-49a5-b445-d29bfa2deedf.png)
 
 ## Contributors 
 - Angie -> Problem statement, Data preparation, Data extraction and Data visualisation
