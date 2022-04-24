@@ -7,9 +7,6 @@
 
 2. We will be taking you through the process of creating and modifying our CNN model. As we make modifications to our model, we will analyse the changes in accuracy of our model.
 
-## Sample of the image dataset 
-![image](https://user-images.githubusercontent.com/69751989/164975106-22c4c937-fb3c-49a5-b445-d29bfa2deedf.png)
-
 ## Contributors 
 - Angie -> Problem statement, Data preparation, Data extraction and Data visualisation
 - Keith -> CNN model: Compilation of model, Accuracy and Validation Accuracy/Loss, Model evaluation
@@ -18,8 +15,10 @@
 ## Problem Statement: 
 In today’s context, we are dealing with a vast amount of unstructured image data from cameras and sensors. Image classification is one of the fundamental problems in the field of computer vision.
 
-By using knowledge from SC1015 and convoluted neural networks, we seek to apply image classification on landscape images to identify 6 landscapes, namely Sea, Glacier, Forest, Buildings, Mountain and Street.
-! 
+By using knowledge from SC1015 and convoluted neural networks, we seek to apply image classification on landscape images to identify 6 landscapes, namely Mountain, Streets, Sea, Glacier, Buildings and Forest. 
+
+## Sample of our image dataset 
+![image](https://user-images.githubusercontent.com/69751989/164975106-22c4c937-fb3c-49a5-b445-d29bfa2deedf.png)
 
 ## Model Used 
 - Convolution Neural Network (CNN) with 20 epochs 
